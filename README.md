@@ -25,9 +25,10 @@ Start with these:
 - Do the same using a query selector
 - Select the 'Quotes About Motivation' heading
 - The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
-- Create an element with the text of your favorite quote.
-- Add the element that you created in the previous step to the layout by appending it to a corresponding subject section.
 
 
 ### Bonus
-Add the author's last name, as a class name, to one of the quotes.
+
+- Create an element with the text of your favorite quote.
+- Add the element that you created in the previous step to the layout by appending it to a corresponding subject section.
+- Add the author's last name, as a class name, to one of the quotes.

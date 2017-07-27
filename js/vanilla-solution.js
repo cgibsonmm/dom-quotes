@@ -31,7 +31,12 @@ const motivationQuotes = null;
 
 // TODO: [10] -  Add a class 'simplicity' to the first subject.
 
+
+
+// BONUS
 // TODO: [11] Create an element with the text of your favorite quote.
 
 
 // TODO: [12] Add the element that you created in the previous step to the layout by appending it to a corresponding subject section.
+
+// TODO: [13] Add the author's last name, as a class name, to one of the quotes.
