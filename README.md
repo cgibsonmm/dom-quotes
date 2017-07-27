@@ -21,13 +21,13 @@ Start with these:
 - Select all of the subject elements
 - Select the navigation links
 - Select all the quotes in the "life" section.
-- Using relative selection, select the `<p>` element containing the second Mark Twain quote
+- Using **relative** selection, select the `<p>` element containing the second Mark Twain quote
 - Do the same using a query selector
 - Select the 'Quotes About Motivation' heading
+- The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
+- Create an element with the text of your favorite quote.
+- Add the element that you created in the previous step to the layout by appending it to a corresponding subject section.
 
-Next:
-
-Once you find those, pick various items on the page and retrieve their objects.
 
 ### Bonus
- Using the console, add the author's last name, as a class, to one of the quotes.
+Add the author's last name, as a class name, to one of the quotes.
