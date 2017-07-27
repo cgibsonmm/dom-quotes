@@ -4,14 +4,14 @@
 1. Clone this repo and `cd js-dom-quotes`
 - Open the index page in your browser: `chrome index.html`
 - Open Chrome's developer tools: <kbd>command + option + j</kbd>
-- Select "elements" from top ribbon
-- Open the console too, by pressing <kbd>Esc</kbd>
+- Select and inspect the "elements" from top ribbon
+
 
 ## Exercise - Selecting DOM elements
 
 This is an exercise in finding elements on the page (in the DOM).
 
-Your task is to write javascript, in the console, to retrieve the objects which represent these elements.
+Your task is to write javascript, in the '/js/vanilla-solution.js' file to retrieve the objects which represent these elements.
 
 Start with these:
 
