@@ -1,0 +1,27 @@
+{
+  "name": "js-dom-quotes",
+  "version": "1.0.0",
+  "description": "1. Clone this repo and `cd js-dom-quotes` - Open the index page in your browser: `chrome index.html` - Open Chrome's developer tools: <kbd>command + option + j</kbd> - Select \"elements\" from top ribbon - Open the console too, by pressing <kbd>Esc</kbd>",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./.test/tests.js -bw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:wdi-nyc/js-dom-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "jsdom": "^11.1.0",
+    "mocha": "^3.4.2",
+    "sinon": "^2.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
