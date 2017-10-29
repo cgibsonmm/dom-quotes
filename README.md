@@ -1,20 +1,34 @@
 # js-dom-quotes
 ## Set up
 
-1. In morning-ex-lab directory
-2. Clone this repo
-4. `cd js-dom-quotes`
-5. `open index.html`
-6. <kbd>command + option + j</kbd>
-7. Inspect structure of the file.
+1. Clone this repo and `cd js-dom-quotes`
+- Open the index page in your browser: `chrome index.html`
+- Open Chrome's developer tools: <kbd>command + option + j</kbd>
+- Select and inspect the "elements" from top ribbon
 
 ## Exercise
 
-1. Using **relative** selection, select the &lt;p&gt; element containing the second Mark Twain quote
-2. Do the same using a query selector
-3. Select all of the elements with class .quote
-4. Select the 'Quotes About Motivation' heading
-5. Select all of the elements with class .subject
+
+This is an exercise in finding elements on the page (in the DOM).
+
+Your task is to write javascript, in the '/js/vanilla-solution.js' file to retrieve the objects which represent these elements.
+
+Start with these:
+
+1. Select the `<body>`
+- Select the `<header>`
+- Select all of the elements with class "quote"
+- Select all of the subject elements
+- Select the navigation links
+- Select all the quotes in the "life" section.
+- Using **relative** selection, select the `<p>` element containing the second Mark Twain quote
+- Do the same using a query selector
+- Select the 'Quotes About Motivation' heading
+- The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
+
 
 ### Bonus
-The first section has a class subject. Add a class 'simplicity' from the console
+
+- Create an element with the text of your favorite quote.
+- Add the element that you created in the previous step to the layout by appending it to a corresponding subject section.
+- Add the author's last name, as a class name, to one of the quotes.
