@@ -38,5 +38,14 @@ describe('JS Dom Quotes Test', () => {
       // ASSERT
       expect(actual).to.be.eql(expected);
     });
+
+    it('should select the header, () => {
+      // ARRANGE
+      const expected = dom.window.document.body;
+      // ACT
+      const actual = dom.window.document.querySelector('header');
+      // ASSERT
+      expect(actual).to.be.eql(expected);
+    });
   });
 });
