@@ -15,7 +15,7 @@ Your task is to write javascript, in the '/js/vanilla-solution.js' file to retri
 
 Start with these:
 
-1. Select the `<body>`
+- Select the `<body>`
 - Select the `<header>`
 - Select all of the elements with class "quote"
 - Select all of the subject elements
