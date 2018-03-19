@@ -1,13 +1,12 @@
 # js-dom-quotes
 ## Set up
 
-1. Clone this repo and `cd js-dom-quotes`
-- Open the index page in your browser: `chrome index.html`
-- Open Chrome's developer tools: <kbd>command + option + j</kbd>
-- Select and inspect the "elements" from top ribbon
+1. Clone this repo and `cd js-dom-quotes-lab`
+1. Open the index page in your browser: `chrome index.html`
+1. Open Chrome's developer tools: <kbd>command + option + j</kbd>
+1. Select and inspect the "elements" from top ribbon
 
 ## Exercise
-
 
 This is an exercise in finding elements on the page (in the DOM).
 
@@ -15,16 +14,16 @@ Your task is to write javascript, in the '/js/vanilla-solution.js' file to retri
 
 Start with these:
 
-- Select the `<body>`
-- Select the `<header>`
-- Select all of the elements with class "quote"
-- Select all of the subject elements
-- Select the navigation links
-- Select all the quotes in the "life" section.
-- Using **relative** selection, select the `<p>` element containing the second Mark Twain quote
-- Do the same using a query selector
-- Select the 'Quotes About Motivation' heading
-- The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
+1. Select the `<body>`
+1. Select the `<header>`
+1. Select all of the elements with class "quote"
+1. Select all of the subject elements
+1. Select the navigation links
+1. Select all the quotes in the "life" section.
+1. Using **relative** selection, select the `<p>` element containing the second Mark Twain quote
+1. Do the same using a query selector
+1. Select the 'Quotes About Motivation' heading
+1. The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
 
 
 ### Bonus
