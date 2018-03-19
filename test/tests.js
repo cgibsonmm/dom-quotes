@@ -39,7 +39,7 @@ describe('JS Dom Quotes Test', () => {
       expect(actual).to.be.eql(expected);
     });
 
-    it('should select the header, () => {
+    it('should select the header', () => {
       // ARRANGE
       const expected = dom.window.document.body;
       // ACT
