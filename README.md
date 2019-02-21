@@ -3,7 +3,7 @@
 
 1. Clone this repo and `cd js-dom-quotes-lab`
 1. Open the index page in your browser: `chrome index.html`
-1. Open Chrome's developer tools: <kbd>command + option + j</kbd>
+1. Open Chrome's developer tools: <kbd>command + option + i</kbd>
 1. Select and inspect the "elements" from top ribbon
 
 ## Exercise
