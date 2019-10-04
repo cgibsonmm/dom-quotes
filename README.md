@@ -1,4 +1,7 @@
-# js-dom-quotes
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
+
+# Manipulating the DOM using JavaScript
+
 ## Set up
 
 1. Clone this repo and `cd js-dom-quotes-lab`
