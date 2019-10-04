@@ -1,4 +1,5 @@
 // vanilla-solution.js
+
 /* eslint no-unused-vars: 0 */
 /* eslint-env browser, node */
 
