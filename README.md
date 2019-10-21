@@ -13,7 +13,7 @@
 
 This is an exercise in finding elements on the page (in the DOM).
 
-Your task is to write javascript, in the '/js/vanilla-solution.js' file to retrieve the objects which represent these elements.
+Your task is to write javascript, in the `script.js` file to retrieve the objects which represent these elements.
 
 Start with these:
 
