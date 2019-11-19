@@ -23,7 +23,7 @@ Start with these:
 1. Select all of the subject elements
 1. Select the navigation links
 1. Select all the quotes in the "life" section.
-1. Using **relative** selection, select the `<p>` element containing the second Mark Twain quote
+1. Using **relative** selection (i.e., don't use `querySelector`, `getElementBy...` etc.), select the `<p>` element containing the second Mark Twain quote
 1. Do the same using a query selector
 1. Select the 'Quotes About Motivation' heading
 1. The first section has a class 'subject', preserve it, and add a class 'simplicity' as well.
